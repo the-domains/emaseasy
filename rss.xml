@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Emaseasy]]></title>
+        <description><![CDATA[Emaseasy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 13:11:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>SME’s and micro enterprises are the economic backbone of most economies in Europe. They typically account for
+90% of the industrial fabric and contribute in a significant way to economic growth, social cohesion, employment,
+regional and local development. The majority of these companies employ less than 5 people. One of today’s mega
+trends is that the global economy is leading towards fast-growing standardisation in products, processes, management
+and information. Global sourcing of goods and services imposes labels, standards, management tools and control
+systems. Furthermore, greening of government programmes and corporate green purchasing underpin this trend
+and, as these measures become commonplace, more sustainable procurement will result.
+For SME's in the supply chain in the European and the Global market, these changes will have impacts in day-to-day
+activities.
+A growing number of small companies have already demonstrated or may soon need to recognize demonstrate track
+record of regular, positive environmental management, even in emerging economies. Furthermore health, safety,
+working conditions and social issues are the subject of growing public scrutiny by consumers worldwide.
+Therefore, the business of tomorrow is not just about products or processes but also about the management processes
+which surround them. This is the focus for EMAS!
+Standards and tools are shaped/have relevance to 90% of industry, whether medium or large, or multi-site or multinational
+organizations.
+But traditional quality and environmental management tools do not fit into the reality of the small or micro-business
+with less than 10 employees. Nor do they fit well in many SME's.
+It is not the intrinsic qualities of those standards which are too high - it is more the internal and external barriers to
+access which are more demanding – cost, bureaucracy, resources, knowledge…</p>]]></description>
+            <link>undefinedfe10cc95-9b1e-447e-b17d-d14057ff6b3a/index.html</link>
+            <guid isPermaLink="false">fe10cc95-9b1e-447e-b17d-d14057ff6b3a</guid>
+            <pubDate>Wed, 30 Mar 2016 13:11:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
